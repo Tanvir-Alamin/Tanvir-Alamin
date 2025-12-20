@@ -1,3 +1,6 @@
+ <p align="center">
+      <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif">
+</p>
 # 💫 About Me:
 <br>🌱 Currently learning **HTML, CSS, JavaScript & React**<br>🎯 Goal: Become a **skilled web developer** and build real-world projects<br>💼 Working as an accountant while learning programming after office hours<br>📚 Studying **BBA (2nd Year)** at National University<br>🔥 Believe in consistency over motivation
 
