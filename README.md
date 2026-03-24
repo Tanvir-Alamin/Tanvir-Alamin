@@ -11,6 +11,8 @@
 🔥 Believe in consistency over motivation  
 
 ---
+![](https://komarev.com/ghpvc/?username=Tanvir-Alamin&color=blue)
+---
 
 ## 🌐 Socials
 
